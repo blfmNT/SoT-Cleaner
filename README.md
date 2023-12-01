@@ -1,2 +1,4 @@
 # SoT Cleaner
-Helps you out with traces Sea of Thieves leaves on your system
+Small Sea of Thieves trace cleaner with GUI for AMIDEWINx64 and volumeid to edit your HDIW parameters.
+
+Project abandoned and provided AS IS
